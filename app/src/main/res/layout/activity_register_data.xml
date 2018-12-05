@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg_color"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/top_bar">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/registerdata_titlebar"
+            android:textColor="@color/white"
+            android:textSize="18.0sp" />
+
+        <TextView
+            android:id="@+id/registerdata_skip"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_skip"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/registerdata_imageview_text_hint_first"
+        android:textColor="@color/darkGray"
+        android:textSize="12sp" />
+
+    <com.aliwh.android.quickyicha.view.CircleImageView
+        android:id="@+id/registerdata_image"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/icon_user_male" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_name"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <com.aliwh.android.quickyicha.view.ClearEditText
+            android:id="@+id/registerdata_name"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="@string/registerdata_name_hint"
+            android:textColorHint="@color/darkGray"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/registerdata_sex"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_sex"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/registerdata_sex_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:hint="@string/registerdata_sex_hint"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/darkGray"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_email"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <com.aliwh.android.quickyicha.view.ClearEditText
+            android:id="@+id/registerdata_email"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="@string/registerdata_email_hint"
+            android:inputType="textEmailAddress"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/darkGray"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_birthday"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/registerdata_birthday_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="@string/registerdata_birthday_hint"
+            android:inputType="textEmailAddress"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/darkGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/registerdata_city"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/registerdata_city"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/registerdata_city_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="@string/registerdata_city_hint"
+            android:inputType="textEmailAddress"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/darkGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/registerdata_set_btn"
+        style="?borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/submit_btn_bg"
+        android:text="@string/registerdata_button_text"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>

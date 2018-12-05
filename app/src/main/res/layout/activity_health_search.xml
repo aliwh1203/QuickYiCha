@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg_color"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/top_bar">
+
+        <Button
+            android:id="@+id/back_btn"
+            android:layout_width="34dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_back_bg" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="健康知识查询"
+            android:textColor="@color/white"
+            android:textSize="18.0sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+
+        <com.aliwh.android.quickyicha.view.ClearEditText
+            android:id="@+id/health_search_edittext"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@drawable/seabar_input"
+            android:drawableLeft="@mipmap/wb_search_icon"
+            android:drawablePadding="5dp"
+            android:hint="输入要查询的关键字"
+            android:padding="10dip"
+            android:textColor="#515151"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/health_search_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="查找" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/health_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp" />
+
+</LinearLayout>

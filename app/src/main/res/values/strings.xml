@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快易查</string>
+    <string name="prompt">提示</string>
+    <string name="cancel">取消</string>
+    <string name="quit">退出</string>
+    <string name="age">年龄</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="famale">女</string>
+    <string name="dialog_waiting">请稍候...</string>
+    <string name="skip">跳过</string>
+    <string name="no_net">网络连接失败</string>
+
+    <!-- 我页面 -->
+    <string name="menu_login">登录/注册</string>
+    <string name="menu_user_msg">个人信息</string>
+    <string name="menu_friend_manage">好友管理</string>
+    <string name="menu_collect">我的收藏</string>
+    <string name="menu_interest_label">兴趣标签</string>
+    <string name="menu_user_set">应用设置</string>
+    <string name="menu_share">分享推荐</string>
+    <string name="menu_about">关于我们</string>
+    <string name="menu_opinion">意见反馈</string>
+    <string name="menu_nature_test">性格测试</string>
+    <string name="check_update">检测更新</string>
+    <string name="user_evaluate">用户评价</string>
+
+    <!--地址选择-->
+    <string name="city_choice">城市选择</string>
+
+    <!-- 关于我们页面 -->
+    <string name="about_hinttext">扫描二维码，让身边的小伙伴们也一起玩耍吧</string>
+    <string name="about_us">关于我们</string>
+    <string name="app_slogan">快易查，你的生活小助手！</string>
+    <string name="about_us_company">中国移动（深圳）有限公司</string>
+
+    <!-- 意见反馈页面 -->
+    <string name="give_advice">意见反馈</string>
+    <string name="give_advice_hint">我们用心聆听来自您的声音\u2026</string>
+    <string name="submit_text">提交</string>
+
+    <!-- 登录页面 -->
+    <string name="login_dialog">登录中...</string>
+    <string name="login_title_bar">登录</string>
+    <string name="login_user_hint">请输入手机号码</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="login_button">登录</string>
+    <string name="login_error">登录失败</string>
+    <string name="login_success">登录成功</string>
+    <string name="phone_no_input">手机号不能为空</string>
+    <string name="password_no_input">密码不能为空</string>
+    <string name="login_net_error_hint">网络不给力，请检查网络</string>
+    <string name="login_to_register">注册新用户</string>
+    <string name="login_forget">忘记密码</string>
+    <string name="login_data_error">服务器数据异常</string>
+    <!-- 注册页面 -->
+    <string name="register_retry">点击重试</string>
+    <string name="register_dailog">注册中...</string>
+    <string name="register_verify_send">验证码已经发送，请注意查收...</string>
+    <string name="register_titlebar">用户注册</string>
+    <string name="register_phone_hint">请输入手机号码</string>
+    <string name="register_password_hint">请输入密码</string>
+    <string name="register_password_last_hint">请再次输入密码</string>
+    <string name="register_verify_hint">请输入验证码</string>
+    <string name="register_getverify_button">获取验证码</string>
+    <string name="register_next_button">注册</string>
+    <string name="register_text_success">注册成功</string>
+    <string name="register_text_fail">注册失败</string>
+    <string name="register_pwd_length_error">密码长度应该在6-16位之间</string>
+    <!-- 找回密码页面 -->
+    <string name="findpwd_pwd_null">密码不能为空</string>
+    <string name="findpwd_success_hint">密码重置成功，请用新密码登录哦</string>
+    <string name="findpwd_pwd_error">两次输入的密码不匹配</string>
+    <string name="findpwd_phone_error">手机号码格式不对</string>
+    <string name="findpwd_verify_error">验证码有误</string>
+    <string name="findpwd_verify_null">验证码为空</string>
+    <string name="findpwd_phone_null">手机号码不能为空</string>
+    <string name="findpwd_phone_null_hint">请输入正确的手机号</string>
+    <string name="findpwd_titlebar">重置密码</string>
+    <string name="findpwd_phone_hint">请输入手机号</string>
+    <string name="findpwd_password_hint">请输入新密码</string>
+    <string name="findpwd_verify_hint">请输入验证码</string>
+    <string name="findpwd_getverify_button">获取验证码</string>
+    <string name="findpwd_password_last_hint">请再次输入密码</string>
+    <string name="findpwd_confirm_button">确认</string>
+    <string name="findpwd_again">点击重试</string>
+    <string name="findpwd_time">秒</string>
+    <!-- 填写注册资料页 -->
+    <string name="registerdata_titlebar">欢迎新成员</string>
+    <string name="registerdata_skip">跳过</string>
+    <string name="registerdata_imageview_text_hint_first">恭喜！您已成功注册！\n立即更新信息，让朋友们更易认得你吧</string>
+    <string name="registerdata_name">昵称：</string>
+    <string name="registerdata_sex">性别：</string>
+    <string name="registerdata_email">邮箱：</string>
+    <string name="registerdata_birthday">生日：</string>
+    <string name="registerdata_city">城市：</string>
+    <string name="registerdata_sex_hint">请选择性别</string>
+    <string name="registerdata_name_hint">请输入昵称</string>
+    <string name="registerdata_email_hint">请输入您的常用邮箱</string>
+    <string name="registerdata_birthday_hint">请选择您的生日</string>
+    <string name="registerdata_city_hint">请选择您所在的城市</string>
+    <string name="registerdata_button_text">设置</string>
+    <string name="no_data">暂无数据</string>
+
+    <!-- 注销登录 -->
+    <string name="log_out">注销登录</string>
+
+    <!-- 个人信息页面 -->
+    <string name="user_msg">个人信息</string>
+    <string name="friend_msg">用户资料</string>
+    <string name="detail_msg">用户资料</string>
+    <string name="user_info_logo">头像</string>
+    <string name="user_info_name">昵称</string>
+    <string name="user_info_email">邮箱</string>
+    <string name="user_info_sex">性别</string>
+    <string name="user_info_phone">电话</string>
+    <string name="user_info_age">年龄</string>
+    <string name="user_info_city">城市</string>
+    <string name="show_user_photo">查看图片</string>
+
+    <!-- 心情选择页面 -->
+    <string name="select_emotion">心情选择</string>
+    <string name="emotion_details_btn">心情指数</string>
+    <string name="select_back_text">此界面无法返回哦！</string>
+    <string name="select_skip">暂不选择，去首页</string>
+    <string name="select_button_double">骚年，手速太快了</string>
+    <string name="select_geting_in">获取中...</string>
+    <string name="select_get_fail">获取心情推荐失败</string>
+    <string name="select_get_success">获取心情推荐成功</string>
+
+    <!-- 应用设置页面 -->
+    <string name="settings_title">应用设置</string>
+    <string name="settings_auto_checkupdata">自动检测更新</string>
+    <string name="settings_nodisturbing">免打扰模式</string>
+    <string name="settings_nodisturbing_starttime">设置开始时间</string>
+    <string name="settings_nodisturbing_stoptime">设置结束时间</string>
+    <string name="settings_match_wear">匹配穿戴设备</string>
+    <string name="settings_privacy">隐私</string>
+    <string name="clear_memory">清除缓存</string>
+
+    <string name="save_photo">保存到手机</string>
+
+    <string name="take_photo">拍照</string>
+    <string name="select_image_in_album">图库</string>
+
+</resources>

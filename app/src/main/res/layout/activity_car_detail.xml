@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg_color"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/top_bar"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/back_btn"
+            android:layout_width="34dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_back_bg" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="车辆详情"
+            android:textColor="@color/white"
+            android:textSize="18.0sp" />
+    </RelativeLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="品牌名称："
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/car_brand"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="left"
+                    android:text="车系名称："
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/car_brand_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="left"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/car_image"
+                android:layout_width="120dp"
+                android:layout_height="80dp"
+                android:layout_gravity="left"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="空调/冰箱配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/airConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="车型基本配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/baseInfo_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="车身配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/carbody_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="底盘配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/chassis_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="操控配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/controlConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="发动机配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/engine_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="外部配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/exterConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="玻璃/后视镜配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/glassConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="内部配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/interConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="灯光配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/lightConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="多媒体配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/mediaConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="安全装置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/safetyDevice_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="座椅配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/seatConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="高科技配置信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/techConfig_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="变速箱信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/transmission_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="车轮制动信息"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.aliwh.android.quickyicha.view.MyListView
+                android:id="@+id/wheelInfo_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

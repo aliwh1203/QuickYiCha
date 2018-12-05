@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/top_bar">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="查询"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/lottery_result_query_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/lottery_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="中国彩票开奖结果查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_query_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/china_caipu_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="中华菜谱集"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/phone_address_query_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/phone_address_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="手机号码归属地查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/box_office_query_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/box_office_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="电影票房查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/phrase_query_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/phrase_query_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="成语查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/car_query_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/more_icon_share"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="汽车查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    android:id="@+id/make_video_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/make_video_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="视频录制"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/shape_line" />
+
+                <RelativeLayout
+                    android:id="@+id/health_knowledge_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dip"
+                    android:background="@drawable/list_item_selector"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@mipmap/health_knowledge_pic"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:drawablePadding="15.0dip"
+                        android:gravity="center_vertical"
+                        android:includeFontPadding="false"
+                        android:paddingLeft="50.0dip"
+                        android:text="健康知识查询"
+                        android:textColor="#ff333333"
+                        android:textSize="16.0sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_right"
+                        android:contentDescription="@string/app_name" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 定义颜色 -->
+<resources>
+
+    <color name="colorPrimary">#3DD49F</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#f1f1f1</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#797979</color>
+    <color name="alpha">#80000000</color>
+    <color name="blue">#0066CC</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="sub_white">#f0f0f0</color>
+    <color name="darkGray">#999999</color>
+    <color name="yahei">#333333</color>
+    <color name="yahui">#666666</color>
+    <color name="yellow">#ff7300</color>
+    <color name="green">#71AC20</color>
+    <color name="listView_drivider">#CFD0D2</color>
+    <color name="line_gray">#D8D8D8</color>
+    <color name="sample_gray">#c8c8c8</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="shape_line">#FFE0E0E0</color>
+    <color name="main_bg_color">#ECECEC</color>
+    <color name="divider_list">#cccccc</color>
+    <color name="onclick_selector">#ccc</color>
+    <color name="wd_common">#ECEAEA</color>
+    <color name="click_bg">#A0A0A0</color>
+    <color name="journal_bg_color">#F8B1B1</color>
+    <color name="startpage_bg_color">#81CFE5</color>
+
+    <!-- 心情颜色定义 -->
+    <!-- 平静 -->
+    <color name="calm">#56abe4</color>
+    <!-- 愉悦 -->
+    <color name="happy">#36ab6f</color>
+    <!-- 愤怒 -->
+    <color name="anger">#eb5037</color>
+    <!-- 伤心 -->
+    <color name="sad">#9c66b1</color>
+    <!-- 厌恶 -->
+    <color name="disgust">#e9810f</color>
+    <!-- 困惑 -->
+    <color name="fear">#3b7dca</color>
+    <!-- 惊奇 -->
+    <color name="surprise">#f3c700</color>
+    <!--轻蔑-->
+    <color name="contempt">#A98282</color>
+    <!--忧愁-->
+    <color name="confused">#5D91A9</color>
+
+
+
+    <color name="camera_collect_color">#58E3EC</color>
+    <color name="sound_collect_color">#F990D5</color>
+    <color name="choice_collect_color">#FFD25C</color>
+
+
+    <!-- 心情选择页背景 -->
+    <color name="select_bg_color">#4A4A4A</color>
+
+    <!-- 关于页面字体颜色 -->
+    <color name="font_blue">#1f88d8</color>
+    <color name="font_light">#888888</color>
+
+    <!-- 登录/注册页面相关颜色 -->
+    <color name="submit">#0DA06C</color>
+    <color name="not_submit">#3DD49F</color>
+    <color name="sc_transparent_background">#00111111</color>
+    <!-- 下拉刷新 -->
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#FFD700</color>
+
+    <!-- 年龄、性别、心情颜色 -->
+    <color name="age_color">#35b87f</color>
+    <color name="gender_color">#66cccc</color>
+    <color name="emotion_color">#5bb4da</color>
+
+    <!-- 心情页上部背景 -->
+    <color name="emotion_head_item_bg1">#99f7e7d7</color>
+    <color name="emotion_head_item_bg2">#aab09f</color>
+
+    <color name="bghuise">#F2F2F2</color>
+
+    <color name="primary">#FF03A9F4</color>
+    <color name="primary_dark">#FF0288D1</color>
+    <color name="status_bar_color">@color/primary_dark</color>
+
+    <color name="dislike_bg_normal">#ff3e3e3e</color>
+    <color name="dislike_bg_pressed">#ff2b2b2b</color>
+    <color name="dislike_line_color">#ff252525</color>
+
+
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+
+    <color name="default_bg">#aa000000</color>
+    <color name="select_color">#00b2ff</color>
+    <color name="normal_color">#ffffffff</color>
+    <color name="divider_color">#55504a</color>
+    <!--special color-->
+    <color name="black_a10_color">#1a000000</color>
+
+    <!--心情日志可收缩TextView,网址、电话显示颜色以区分-->
+    <color name="color_8290AF">#8290AF</color>
+    <color name="color_232323">#232323</color>
+    <color name="transparent">#00000000</color>
+    <color name="default_clickable_color">#cccccc</color>
+    <color name="name_selector_color">#cccccc</color>
+
+    <!--顶部栏颜色-->
+    <color name="top_bar">#3DD49F</color>
+    <color name="sound_color">#F990D5</color>
+    <color name="text_color_normal">#999999</color>
+
+    <!--页面背景的颜色-->
+    <color name="colorPageBg">#f2f4f5</color>
+    <!--item的5.0以下版本选择器颜色-->
+    <color name="itemLowBackground">#d9d9d9</color>
+    <!--正文文字颜色-->
+    <color name="colorContent">#ff333333</color>
+    <color name="colorTheme">#ffce3d3a</color>
+
+
+</resources>

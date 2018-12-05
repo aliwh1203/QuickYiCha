@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 返回按钮的点按效果 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- on pressed -->
+    <item android:drawable="@mipmap/icon_back_pressed" android:state_pressed="true" />
+ 	<!-- on focused -->
+ 	<item android:drawable="@mipmap/icon_back_pressed" android:state_focused="true" />
+ 	<!-- on default -->
+ 	<item android:drawable="@mipmap/icon_back_normal" />
+
+</selector>

@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        jcenter()
+        // 添加MobSDK的maven地址
+        maven {
+            url "http://mvn.mob.com/android"
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        // 注册MobSDK
+        classpath 'com.mob.sdk:MobSDK:+'
+
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}

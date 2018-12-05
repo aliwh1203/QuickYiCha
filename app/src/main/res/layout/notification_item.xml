@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/update_content"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/notificationImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:background="@mipmap/logo_icon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_toRightOf="@id/notificationImage"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/notificationProgress"
+            style="@android:style/Widget.Holo.Light.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="2dp" />
+
+        <TextView
+            android:id="@+id/notificationTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:paddingLeft="3dp"
+            android:text="正在下载"
+            android:textColor="#6C7D86" />
+    </LinearLayout>
+
+</RelativeLayout>

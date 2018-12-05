@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg_color"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/title_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/top_bar">
+
+        <Button
+            android:id="@+id/back_btn"
+            android:layout_width="34dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_back_bg" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/about_us"
+            android:textColor="@color/white"
+            android:textSize="18.0sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/about_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_rl"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:contentDescription="@null"
+            android:src="@mipmap/logo_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/app_slogan"
+            android:textColor="@color/font_blue"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@null"
+            android:src="@mipmap/download_apk_qr" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/about_image"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="@string/about_hinttext"
+        android:textColor="@color/darkGray"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/version_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/font_blue"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/version_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/font_blue"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</RelativeLayout>

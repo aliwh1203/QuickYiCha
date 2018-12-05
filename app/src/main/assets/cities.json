@@ -1,0 +1,2639 @@
+{
+  "data": [
+    {
+      "acronym": "bj",
+      "name": "北京",
+      "pinyin": "beijing"
+    },
+    {
+      "acronym": "sh",
+      "name": "上海",
+      "pinyin": "shanghai"
+    },
+    {
+      "acronym": "gz",
+      "name": "广州",
+      "pinyin": "guangzhou"
+    },
+    {
+      "acronym": "sz",
+      "name": "深圳",
+      "pinyin": "shenzhen"
+    },
+    {
+      "acronym": "tj",
+      "name": "天津",
+      "pinyin": "tianjin"
+    },
+    {
+      "acronym": "xa",
+      "name": "西安",
+      "pinyin": "xian"
+    },
+    {
+      "acronym": "fz",
+      "name": "福州",
+      "pinyin": "fuzhou"
+    },
+    {
+      "acronym": "cq",
+      "name": "重庆",
+      "pinyin": "chongqing"
+    },
+    {
+      "acronym": "hz",
+      "name": "杭州",
+      "pinyin": "hangzhou"
+    },
+    {
+      "acronym": "nb",
+      "name": "宁波",
+      "pinyin": "ningbo"
+    },
+    {
+      "acronym": "wx",
+      "name": "无锡",
+      "pinyin": "wuxi"
+    },
+    {
+      "acronym": "nj",
+      "name": "南京",
+      "pinyin": "nanjing"
+    },
+    {
+      "acronym": "hf",
+      "name": "合肥",
+      "pinyin": "hefei"
+    },
+    {
+      "acronym": "wh",
+      "name": "武汉",
+      "pinyin": "wuhan"
+    },
+    {
+      "acronym": "cd",
+      "name": "成都",
+      "pinyin": "chengdu"
+    },
+    {
+      "acronym": "qd",
+      "name": "青岛",
+      "pinyin": "qingdao"
+    },
+    {
+      "acronym": "xm",
+      "name": "厦门",
+      "pinyin": "xiamen"
+    },
+    {
+      "acronym": "dl",
+      "name": "大连",
+      "pinyin": "dalian"
+    },
+    {
+      "acronym": "sy",
+      "name": "沈阳",
+      "pinyin": "shenyang"
+    },
+    {
+      "acronym": "chs",
+      "name": "长沙",
+      "pinyin": "changsha"
+    },
+    {
+      "acronym": "zz",
+      "name": "郑州",
+      "pinyin": "zhengzhou"
+    },
+    {
+      "acronym": "sjz",
+      "name": "石家庄",
+      "pinyin": "shijiazhuang"
+    },
+    {
+      "acronym": "su",
+      "name": "苏州",
+      "pinyin": "suzhou"
+    },
+    {
+      "acronym": "zb",
+      "name": "淄博",
+      "pinyin": "zibo"
+    },
+    {
+      "acronym": "nt",
+      "name": "南通",
+      "pinyin": "nantong"
+    },
+    {
+      "acronym": "nc",
+      "name": "南昌",
+      "pinyin": "nanchang"
+    },
+    {
+      "acronym": "bd",
+      "name": "保定",
+      "pinyin": "baoding"
+    },
+    {
+      "acronym": "bengbu",
+      "name": "蚌埠",
+      "pinyin": "bengbu"
+    },
+    {
+      "acronym": "cz",
+      "name": "常州",
+      "pinyin": "changzhou"
+    },
+    {
+      "acronym": "dq",
+      "name": "大庆",
+      "pinyin": "daqing"
+    },
+    {
+      "acronym": "dg",
+      "name": "东莞",
+      "pinyin": "dongguan"
+    },
+    {
+      "acronym": "fs",
+      "name": "佛山",
+      "pinyin": "foshan"
+    },
+    {
+      "acronym": "gl",
+      "name": "桂林",
+      "pinyin": "guilin"
+    },
+    {
+      "acronym": "haikou",
+      "name": "海口",
+      "pinyin": "haikou"
+    },
+    {
+      "acronym": "hld",
+      "name": "葫芦岛",
+      "pinyin": "huludao"
+    },
+    {
+      "acronym": "jn",
+      "name": "济南",
+      "pinyin": "jinan"
+    },
+    {
+      "acronym": "jiaozuo",
+      "name": "焦作",
+      "pinyin": "jiaozuo"
+    },
+    {
+      "acronym": "jinzhou",
+      "name": "锦州",
+      "pinyin": "jinzhou"
+    },
+    {
+      "acronym": "nn",
+      "name": "南宁",
+      "pinyin": "nanning"
+    },
+    {
+      "acronym": "ty",
+      "name": "太原",
+      "pinyin": "taiyuan"
+    },
+    {
+      "acronym": "wuhu",
+      "name": "芜湖",
+      "pinyin": "wuhu"
+    },
+    {
+      "acronym": "xx",
+      "name": "新乡",
+      "pinyin": "xinxiang"
+    },
+    {
+      "acronym": "yt",
+      "name": "烟台",
+      "pinyin": "yantai"
+    },
+    {
+      "acronym": "hrb",
+      "name": "哈尔滨",
+      "pinyin": "haerbin"
+    },
+    {
+      "acronym": "lf",
+      "name": "廊坊",
+      "pinyin": "langfang"
+    },
+    {
+      "acronym": "gy",
+      "name": "贵阳",
+      "pinyin": "guiyang"
+    },
+    {
+      "acronym": "zh",
+      "name": "珠海",
+      "pinyin": "zhuhai"
+    },
+    {
+      "acronym": "qqhr",
+      "name": "齐齐哈尔",
+      "pinyin": "qiqihaer"
+    },
+    {
+      "acronym": "qz",
+      "name": "泉州",
+      "pinyin": "quanzhou"
+    },
+    {
+      "acronym": "sanya",
+      "name": "三亚",
+      "pinyin": "sanya"
+    },
+    {
+      "acronym": "wz",
+      "name": "温州",
+      "pinyin": "wenzhou"
+    },
+    {
+      "acronym": "zs",
+      "name": "中山",
+      "pinyin": "zhongshan"
+    },
+    {
+      "acronym": "km",
+      "name": "昆明",
+      "pinyin": "kunming"
+    },
+    {
+      "acronym": "jj",
+      "name": "九江",
+      "pinyin": "jiujiang"
+    },
+    {
+      "acronym": "cc",
+      "name": "长春",
+      "pinyin": "changchun"
+    },
+    {
+      "acronym": "st",
+      "name": "汕头",
+      "pinyin": "shantou"
+    },
+    {
+      "acronym": "hk",
+      "name": "香港",
+      "pinyin": "xianggang"
+    },
+    {
+      "acronym": "xz",
+      "name": "徐州",
+      "pinyin": "xuzhou"
+    },
+    {
+      "acronym": "yz",
+      "name": "扬州",
+      "pinyin": "yangzhou"
+    },
+    {
+      "acronym": "ts",
+      "name": "唐山",
+      "pinyin": "tangshan"
+    },
+    {
+      "acronym": "qhd",
+      "name": "秦皇岛",
+      "pinyin": "qinhuangdao"
+    },
+    {
+      "acronym": "hd",
+      "name": "邯郸",
+      "pinyin": "handan"
+    },
+    {
+      "acronym": "xt",
+      "name": "邢台",
+      "pinyin": "xingtai"
+    },
+    {
+      "acronym": "zjk",
+      "name": "张家口",
+      "pinyin": "zhangjiakou"
+    },
+    {
+      "acronym": "chengde",
+      "name": "承德",
+      "pinyin": "chengde"
+    },
+    {
+      "acronym": "cangzhou",
+      "name": "沧州",
+      "pinyin": "cangzhou"
+    },
+    {
+      "acronym": "hs",
+      "name": "衡水",
+      "pinyin": "hengshui"
+    },
+    {
+      "acronym": "dt",
+      "name": "大同",
+      "pinyin": "datong"
+    },
+    {
+      "acronym": "yq",
+      "name": "阳泉",
+      "pinyin": "yangquan"
+    },
+    {
+      "acronym": "changzhi",
+      "name": "长治",
+      "pinyin": "changzhi"
+    },
+    {
+      "acronym": "jincheng",
+      "name": "晋城",
+      "pinyin": "jincheng"
+    },
+    {
+      "acronym": "shuozhou",
+      "name": "朔州",
+      "pinyin": "shuozhou"
+    },
+    {
+      "acronym": "jz",
+      "name": "晋中",
+      "pinyin": "jinzhong"
+    },
+    {
+      "acronym": "yuncheng",
+      "name": "运城",
+      "pinyin": "yuncheng"
+    },
+    {
+      "acronym": "xinzhou",
+      "name": "忻州",
+      "pinyin": "xinzhou"
+    },
+    {
+      "acronym": "linfen",
+      "name": "临汾",
+      "pinyin": "linfen"
+    },
+    {
+      "acronym": "lvliang",
+      "name": "吕梁",
+      "pinyin": "lvliang"
+    },
+    {
+      "acronym": "hu",
+      "name": "呼和浩特",
+      "pinyin": "huhehaote"
+    },
+    {
+      "acronym": "bt",
+      "name": "包头",
+      "pinyin": "baotou"
+    },
+    {
+      "acronym": "wuhai",
+      "name": "乌海",
+      "pinyin": "wuhai"
+    },
+    {
+      "acronym": "chifeng",
+      "name": "赤峰",
+      "pinyin": "chifeng"
+    },
+    {
+      "acronym": "tongliao",
+      "name": "通辽",
+      "pinyin": "tongliao"
+    },
+    {
+      "acronym": "erds",
+      "name": "鄂尔多斯",
+      "pinyin": "eerduosi"
+    },
+    {
+      "acronym": "hlbe",
+      "name": "呼伦贝尔",
+      "pinyin": "hulunbeier"
+    },
+    {
+      "acronym": "byne",
+      "name": "巴彦淖尔",
+      "pinyin": "bayannaoer"
+    },
+    {
+      "acronym": "wlcb",
+      "name": "乌兰察布",
+      "pinyin": "wulanchabu"
+    },
+    {
+      "acronym": "xan",
+      "name": "兴安盟",
+      "pinyin": "xinganmeng"
+    },
+    {
+      "acronym": "xlgl",
+      "name": "锡林郭勒",
+      "pinyin": "xilinguolemeng"
+    },
+    {
+      "acronym": "als",
+      "name": "阿拉善",
+      "pinyin": "alashanmeng"
+    },
+    {
+      "acronym": "as",
+      "name": "鞍山",
+      "pinyin": "anshan"
+    },
+    {
+      "acronym": "fushun",
+      "name": "抚顺",
+      "pinyin": "fushun"
+    },
+    {
+      "acronym": "benxi",
+      "name": "本溪",
+      "pinyin": "benxi"
+    },
+    {
+      "acronym": "dandong",
+      "name": "丹东",
+      "pinyin": "dandong"
+    },
+    {
+      "acronym": "yk",
+      "name": "营口",
+      "pinyin": "yingkou"
+    },
+    {
+      "acronym": "fx",
+      "name": "阜新",
+      "pinyin": "fuxin"
+    },
+    {
+      "acronym": "liaoyang",
+      "name": "辽阳",
+      "pinyin": "liaoyang"
+    },
+    {
+      "acronym": "pj",
+      "name": "盘锦",
+      "pinyin": "panjin"
+    },
+    {
+      "acronym": "tl",
+      "name": "铁岭",
+      "pinyin": "tieling"
+    },
+    {
+      "acronym": "cy",
+      "name": "朝阳",
+      "pinyin": "chaoyang"
+    },
+    {
+      "acronym": "jl",
+      "name": "吉林",
+      "pinyin": "jilin"
+    },
+    {
+      "acronym": "sp",
+      "name": "四平",
+      "pinyin": "siping"
+    },
+    {
+      "acronym": "liaoyuan",
+      "name": "辽源",
+      "pinyin": "liaoyuan"
+    },
+    {
+      "acronym": "th",
+      "name": "通化",
+      "pinyin": "tonghua"
+    },
+    {
+      "acronym": "baishan",
+      "name": "白山",
+      "pinyin": "baishan"
+    },
+    {
+      "acronym": "songyuan",
+      "name": "松原",
+      "pinyin": "songyuan"
+    },
+    {
+      "acronym": "bc",
+      "name": "白城",
+      "pinyin": "baicheng"
+    },
+    {
+      "acronym": "yanbian",
+      "name": "延边",
+      "pinyin": "yanbian"
+    },
+    {
+      "acronym": "jixi",
+      "name": "鸡西",
+      "pinyin": "jixi"
+    },
+    {
+      "acronym": "hegang",
+      "name": "鹤岗",
+      "pinyin": "hegang"
+    },
+    {
+      "acronym": "sys",
+      "name": "双鸭山",
+      "pinyin": "shuangyashan"
+    },
+    {
+      "acronym": "yich",
+      "name": "伊春",
+      "pinyin": "yichunyc"
+    },
+    {
+      "acronym": "jms",
+      "name": "佳木斯",
+      "pinyin": "jiamusi"
+    },
+    {
+      "acronym": "qth",
+      "name": "七台河",
+      "pinyin": "qitaihe"
+    },
+    {
+      "acronym": "mdj",
+      "name": "牡丹江",
+      "pinyin": "mudanjiang"
+    },
+    {
+      "acronym": "heihe",
+      "name": "黑河",
+      "pinyin": "heihe"
+    },
+    {
+      "acronym": "suihua",
+      "name": "绥化",
+      "pinyin": "suihua"
+    },
+    {
+      "acronym": "dxal",
+      "name": "大兴安岭",
+      "pinyin": "daxinganling"
+    },
+    {
+      "acronym": "lyg",
+      "name": "连云港",
+      "pinyin": "lianyungang"
+    },
+    {
+      "acronym": "ha",
+      "name": "淮安",
+      "pinyin": "huaian"
+    },
+    {
+      "acronym": "yancheng",
+      "name": "盐城",
+      "pinyin": "yancheng"
+    },
+    {
+      "acronym": "zj",
+      "name": "镇江",
+      "pinyin": "zhenjiang"
+    },
+    {
+      "acronym": "taizhou",
+      "name": "泰州",
+      "pinyin": "taizhou"
+    },
+    {
+      "acronym": "suqian",
+      "name": "宿迁",
+      "pinyin": "suqian"
+    },
+    {
+      "acronym": "jx",
+      "name": "嘉兴",
+      "pinyin": "jiaxing"
+    },
+    {
+      "acronym": "huzhou",
+      "name": "湖州",
+      "pinyin": "huzhou"
+    },
+    {
+      "acronym": "sx",
+      "name": "绍兴",
+      "pinyin": "shaoxing"
+    },
+    {
+      "acronym": "jh",
+      "name": "金华",
+      "pinyin": "jinhua"
+    },
+    {
+      "acronym": "quzhou",
+      "name": "衢州",
+      "pinyin": "quzhou"
+    },
+    {
+      "acronym": "zhoushan",
+      "name": "舟山",
+      "pinyin": "zhoushan"
+    },
+    {
+      "acronym": "tz",
+      "name": "台州",
+      "pinyin": "taizhoutz"
+    },
+    {
+      "acronym": "lishui",
+      "name": "丽水",
+      "pinyin": "lishui"
+    },
+    {
+      "acronym": "hn",
+      "name": "淮南",
+      "pinyin": "huainan"
+    },
+    {
+      "acronym": "mas",
+      "name": "马鞍山",
+      "pinyin": "maanshan"
+    },
+    {
+      "acronym": "huaibei",
+      "name": "淮北",
+      "pinyin": "huaibei"
+    },
+    {
+      "acronym": "tongling",
+      "name": "铜陵",
+      "pinyin": "tongling"
+    },
+    {
+      "acronym": "anqing",
+      "name": "安庆",
+      "pinyin": "anqing"
+    },
+    {
+      "acronym": "huangshan",
+      "name": "黄山",
+      "pinyin": "huangshan"
+    },
+    {
+      "acronym": "chuzhou",
+      "name": "滁州",
+      "pinyin": "chuzhou"
+    },
+    {
+      "acronym": "fy",
+      "name": "阜阳",
+      "pinyin": "fuyang"
+    },
+    {
+      "acronym": "suzhousz",
+      "name": "宿州",
+      "pinyin": "suzhousz"
+    },
+    {
+      "acronym": "ch",
+      "name": "巢湖",
+      "pinyin": "chaohu"
+    },
+    {
+      "acronym": "la",
+      "name": "六安",
+      "pinyin": "liuan"
+    },
+    {
+      "acronym": "bozhou",
+      "name": "亳州",
+      "pinyin": "bozhou"
+    },
+    {
+      "acronym": "chizhou",
+      "name": "池州",
+      "pinyin": "chizhou"
+    },
+    {
+      "acronym": "xuancheng",
+      "name": "宣城",
+      "pinyin": "xuancheng"
+    },
+    {
+      "acronym": "pt",
+      "name": "莆田",
+      "pinyin": "putian"
+    },
+    {
+      "acronym": "sm",
+      "name": "三明",
+      "pinyin": "sanming"
+    },
+    {
+      "acronym": "zhangzhou",
+      "name": "漳州",
+      "pinyin": "zhangzhou"
+    },
+    {
+      "acronym": "np",
+      "name": "南平",
+      "pinyin": "nanping"
+    },
+    {
+      "acronym": "ly",
+      "name": "龙岩",
+      "pinyin": "longyan"
+    },
+    {
+      "acronym": "nd",
+      "name": "宁德",
+      "pinyin": "ningde"
+    },
+    {
+      "acronym": "jdz",
+      "name": "景德镇",
+      "pinyin": "jingdezhen"
+    },
+    {
+      "acronym": "px",
+      "name": "萍乡",
+      "pinyin": "pingxiang"
+    },
+    {
+      "acronym": "xinyu",
+      "name": "新余",
+      "pinyin": "xinyu"
+    },
+    {
+      "acronym": "yingtan",
+      "name": "鹰潭",
+      "pinyin": "yingtan"
+    },
+    {
+      "acronym": "ganzhou",
+      "name": "赣州",
+      "pinyin": "ganzhou"
+    },
+    {
+      "acronym": "ja",
+      "name": "吉安",
+      "pinyin": "jian"
+    },
+    {
+      "acronym": "yichun",
+      "name": "宜春",
+      "pinyin": "yichun"
+    },
+    {
+      "acronym": "fuz",
+      "name": "抚州",
+      "pinyin": "fuzhoufz"
+    },
+    {
+      "acronym": "sr",
+      "name": "上饶",
+      "pinyin": "shangrao"
+    },
+    {
+      "acronym": "zaozhuang",
+      "name": "枣庄",
+      "pinyin": "zaozhuang"
+    },
+    {
+      "acronym": "dy",
+      "name": "东营",
+      "pinyin": "dongying"
+    },
+    {
+      "acronym": "wf",
+      "name": "潍坊",
+      "pinyin": "weifang"
+    },
+    {
+      "acronym": "jining",
+      "name": "济宁",
+      "pinyin": "jining"
+    },
+    {
+      "acronym": "ta",
+      "name": "泰安",
+      "pinyin": "taian"
+    },
+    {
+      "acronym": "weihai",
+      "name": "威海",
+      "pinyin": "weihai"
+    },
+    {
+      "acronym": "rizhao",
+      "name": "日照",
+      "pinyin": "rizhao"
+    },
+    {
+      "acronym": "lw",
+      "name": "莱芜",
+      "pinyin": "laiwu"
+    },
+    {
+      "acronym": "linyi",
+      "name": "临沂",
+      "pinyin": "linyi"
+    },
+    {
+      "acronym": "dz",
+      "name": "德州",
+      "pinyin": "dezhou"
+    },
+    {
+      "acronym": "lc",
+      "name": "聊城",
+      "pinyin": "liaocheng"
+    },
+    {
+      "acronym": "bz",
+      "name": "滨州",
+      "pinyin": "binzhou"
+    },
+    {
+      "acronym": "heze",
+      "name": "菏泽",
+      "pinyin": "heze"
+    },
+    {
+      "acronym": "kaifeng",
+      "name": "开封",
+      "pinyin": "kaifeng"
+    },
+    {
+      "acronym": "luoyang",
+      "name": "洛阳",
+      "pinyin": "luoyang"
+    },
+    {
+      "acronym": "pds",
+      "name": "平顶山",
+      "pinyin": "pingdingshan"
+    },
+    {
+      "acronym": "ay",
+      "name": "安阳",
+      "pinyin": "anyang"
+    },
+    {
+      "acronym": "hb",
+      "name": "鹤壁",
+      "pinyin": "hebi"
+    },
+    {
+      "acronym": "puyang",
+      "name": "濮阳",
+      "pinyin": "puyang"
+    },
+    {
+      "acronym": "xc",
+      "name": "许昌",
+      "pinyin": "xuchang"
+    },
+    {
+      "acronym": "luohe",
+      "name": "漯河",
+      "pinyin": "luohe"
+    },
+    {
+      "acronym": "smx",
+      "name": "三门峡",
+      "pinyin": "sanmenxia"
+    },
+    {
+      "acronym": "ny",
+      "name": "南阳",
+      "pinyin": "nanyang"
+    },
+    {
+      "acronym": "sq",
+      "name": "商丘",
+      "pinyin": "shangqiu"
+    },
+    {
+      "acronym": "xy",
+      "name": "信阳",
+      "pinyin": "xinyang"
+    },
+    {
+      "acronym": "zk",
+      "name": "周口",
+      "pinyin": "zhoukou"
+    },
+    {
+      "acronym": "zmd",
+      "name": "驻马店",
+      "pinyin": "zhumadian"
+    },
+    {
+      "acronym": "jiyuan",
+      "name": "济源",
+      "pinyin": "jiyuan"
+    },
+    {
+      "acronym": "hshi",
+      "name": "黄石",
+      "pinyin": "huangshi"
+    },
+    {
+      "acronym": "shiyan",
+      "name": "十堰",
+      "pinyin": "shiyan"
+    },
+    {
+      "acronym": "yc",
+      "name": "宜昌",
+      "pinyin": "yichang"
+    },
+    {
+      "acronym": "xf",
+      "name": "襄阳",
+      "pinyin": "xiangyang"
+    },
+    {
+      "acronym": "ez",
+      "name": "鄂州",
+      "pinyin": "ezhou"
+    },
+    {
+      "acronym": "jingmen",
+      "name": "荆门",
+      "pinyin": "jingmen"
+    },
+    {
+      "acronym": "xiaogan",
+      "name": "孝感",
+      "pinyin": "xiaogan"
+    },
+    {
+      "acronym": "jingzhou",
+      "name": "荆州",
+      "pinyin": "jingzhou"
+    },
+    {
+      "acronym": "hg",
+      "name": "黄冈",
+      "pinyin": "huanggang"
+    },
+    {
+      "acronym": "xianning",
+      "name": "咸宁",
+      "pinyin": "xianning"
+    },
+    {
+      "acronym": "suizhou",
+      "name": "随州",
+      "pinyin": "suizhou"
+    },
+    {
+      "acronym": "es",
+      "name": "恩施",
+      "pinyin": "enshi"
+    },
+    {
+      "acronym": "sanx",
+      "name": "三峡",
+      "pinyin": "sanxia"
+    },
+    {
+      "acronym": "zhuzhou",
+      "name": "株洲",
+      "pinyin": "zhuzhou"
+    },
+    {
+      "acronym": "xiangtan",
+      "name": "湘潭",
+      "pinyin": "xiangtan"
+    },
+    {
+      "acronym": "hy",
+      "name": "衡阳",
+      "pinyin": "hengyang"
+    },
+    {
+      "acronym": "shaoyang",
+      "name": "邵阳",
+      "pinyin": "shaoyang"
+    },
+    {
+      "acronym": "yy",
+      "name": "岳阳",
+      "pinyin": "yueyang"
+    },
+    {
+      "acronym": "changde",
+      "name": "常德",
+      "pinyin": "changde"
+    },
+    {
+      "acronym": "zjj",
+      "name": "张家界",
+      "pinyin": "zhangjiajie"
+    },
+    {
+      "acronym": "yiyang",
+      "name": "益阳",
+      "pinyin": "yiyang"
+    },
+    {
+      "acronym": "chenzhou",
+      "name": "郴州",
+      "pinyin": "chenzhou"
+    },
+    {
+      "acronym": "yongzhou",
+      "name": "永州",
+      "pinyin": "yongzhou"
+    },
+    {
+      "acronym": "hh",
+      "name": "怀化",
+      "pinyin": "huaihua"
+    },
+    {
+      "acronym": "ld",
+      "name": "娄底",
+      "pinyin": "loudi"
+    },
+    {
+      "acronym": "xiangxi",
+      "name": "湘西",
+      "pinyin": "xiangxi"
+    },
+    {
+      "acronym": "sg",
+      "name": "韶关",
+      "pinyin": "shaoguan"
+    },
+    {
+      "acronym": "jm",
+      "name": "江门",
+      "pinyin": "jiangmen"
+    },
+    {
+      "acronym": "zhanjiang",
+      "name": "湛江",
+      "pinyin": "zhanjiang"
+    },
+    {
+      "acronym": "mm",
+      "name": "茂名",
+      "pinyin": "maoming"
+    },
+    {
+      "acronym": "zq",
+      "name": "肇庆",
+      "pinyin": "zhaoqing"
+    },
+    {
+      "acronym": "huizhou",
+      "name": "惠州",
+      "pinyin": "huizhou"
+    },
+    {
+      "acronym": "mz",
+      "name": "梅州",
+      "pinyin": "meizhou"
+    },
+    {
+      "acronym": "sw",
+      "name": "汕尾",
+      "pinyin": "shanwei"
+    },
+    {
+      "acronym": "heyuan",
+      "name": "河源",
+      "pinyin": "heyuan"
+    },
+    {
+      "acronym": "yj",
+      "name": "阳江",
+      "pinyin": "yangjiang"
+    },
+    {
+      "acronym": "qingyuan",
+      "name": "清远",
+      "pinyin": "qingyuan"
+    },
+    {
+      "acronym": "chaozhou",
+      "name": "潮州",
+      "pinyin": "chaozhou"
+    },
+    {
+      "acronym": "jy",
+      "name": "揭阳",
+      "pinyin": "jieyang"
+    },
+    {
+      "acronym": "yf",
+      "name": "云浮",
+      "pinyin": "yunfu"
+    },
+    {
+      "acronym": "liuzhou",
+      "name": "柳州",
+      "pinyin": "liuzhou"
+    },
+    {
+      "acronym": "wuzhou",
+      "name": "梧州",
+      "pinyin": "wuzhou"
+    },
+    {
+      "acronym": "bh",
+      "name": "北海",
+      "pinyin": "beihai"
+    },
+    {
+      "acronym": "fcg",
+      "name": "防城港",
+      "pinyin": "fangchenggang"
+    },
+    {
+      "acronym": "qinzhou",
+      "name": "钦州",
+      "pinyin": "qinzhou"
+    },
+    {
+      "acronym": "gg",
+      "name": "贵港",
+      "pinyin": "guigang"
+    },
+    {
+      "acronym": "yulin",
+      "name": "玉林",
+      "pinyin": "yulin"
+    },
+    {
+      "acronym": "baise",
+      "name": "百色",
+      "pinyin": "baise"
+    },
+    {
+      "acronym": "hezhou",
+      "name": "贺州",
+      "pinyin": "hezhou"
+    },
+    {
+      "acronym": "hc",
+      "name": "河池",
+      "pinyin": "hechi"
+    },
+    {
+      "acronym": "lb",
+      "name": "来宾",
+      "pinyin": "laibin"
+    },
+    {
+      "acronym": "chongzuo",
+      "name": "崇左",
+      "pinyin": "chongzuo"
+    },
+    {
+      "acronym": "zg",
+      "name": "自贡",
+      "pinyin": "zigong"
+    },
+    {
+      "acronym": "panzhihua",
+      "name": "攀枝花",
+      "pinyin": "panzhihua"
+    },
+    {
+      "acronym": "luzhou",
+      "name": "泸州",
+      "pinyin": "luzhou"
+    },
+    {
+      "acronym": "deyang",
+      "name": "德阳",
+      "pinyin": "deyang"
+    },
+    {
+      "acronym": "my",
+      "name": "绵阳",
+      "pinyin": "mianyang"
+    },
+    {
+      "acronym": "guangyuan",
+      "name": "广元",
+      "pinyin": "guangyuan"
+    },
+    {
+      "acronym": "suining",
+      "name": "遂宁",
+      "pinyin": "suining"
+    },
+    {
+      "acronym": "scnj",
+      "name": "内江",
+      "pinyin": "neijiang"
+    },
+    {
+      "acronym": "ls",
+      "name": "乐山",
+      "pinyin": "leshan"
+    },
+    {
+      "acronym": "nanchong",
+      "name": "南充",
+      "pinyin": "nanchong"
+    },
+    {
+      "acronym": "ms",
+      "name": "眉山",
+      "pinyin": "meishan"
+    },
+    {
+      "acronym": "yb",
+      "name": "宜宾",
+      "pinyin": "yibin"
+    },
+    {
+      "acronym": "ga",
+      "name": "广安",
+      "pinyin": "guangan"
+    },
+    {
+      "acronym": "dazhou",
+      "name": "达州",
+      "pinyin": "dazhou"
+    },
+    {
+      "acronym": "ya",
+      "name": "雅安",
+      "pinyin": "yaan"
+    },
+    {
+      "acronym": "bazhong",
+      "name": "巴中",
+      "pinyin": "bazhong"
+    },
+    {
+      "acronym": "zy",
+      "name": "资阳",
+      "pinyin": "ziyang"
+    },
+    {
+      "acronym": "ab",
+      "name": "阿坝",
+      "pinyin": "aba"
+    },
+    {
+      "acronym": "ganzi",
+      "name": "甘孜",
+      "pinyin": "ganzi"
+    },
+    {
+      "acronym": "liangshan",
+      "name": "凉山",
+      "pinyin": "liangshan"
+    },
+    {
+      "acronym": "lps",
+      "name": "六盘水",
+      "pinyin": "liupanshui"
+    },
+    {
+      "acronym": "zunyi",
+      "name": "遵义",
+      "pinyin": "zunyi"
+    },
+    {
+      "acronym": "anshun",
+      "name": "安顺",
+      "pinyin": "anshun"
+    },
+    {
+      "acronym": "tr",
+      "name": "铜仁",
+      "pinyin": "tongrendiqu"
+    },
+    {
+      "acronym": "qxn",
+      "name": "黔西南",
+      "pinyin": "qianxinan"
+    },
+    {
+      "acronym": "bijie",
+      "name": "毕节",
+      "pinyin": "bijiediqu"
+    },
+    {
+      "acronym": "qdn",
+      "name": "黔东南",
+      "pinyin": "qiandongnan"
+    },
+    {
+      "acronym": "qn",
+      "name": "黔南",
+      "pinyin": "qiannan"
+    },
+    {
+      "acronym": "qj",
+      "name": "曲靖",
+      "pinyin": "qujing"
+    },
+    {
+      "acronym": "yx",
+      "name": "玉溪",
+      "pinyin": "yuxi"
+    },
+    {
+      "acronym": "bs",
+      "name": "保山",
+      "pinyin": "baoshan"
+    },
+    {
+      "acronym": "zt",
+      "name": "昭通",
+      "pinyin": "zhaotong"
+    },
+    {
+      "acronym": "lj",
+      "name": "丽江",
+      "pinyin": "lijiang"
+    },
+    {
+      "acronym": "pe",
+      "name": "普洱",
+      "pinyin": "puer"
+    },
+    {
+      "acronym": "lincang",
+      "name": "临沧",
+      "pinyin": "lincang"
+    },
+    {
+      "acronym": "cx",
+      "name": "楚雄",
+      "pinyin": "chuxiong"
+    },
+    {
+      "acronym": "honghe",
+      "name": "红河",
+      "pinyin": "honghe"
+    },
+    {
+      "acronym": "ws",
+      "name": "文山",
+      "pinyin": "wenshan"
+    },
+    {
+      "acronym": "bn",
+      "name": "西双版纳",
+      "pinyin": "xishuangbanna"
+    },
+    {
+      "acronym": "dali",
+      "name": "大理",
+      "pinyin": "dali"
+    },
+    {
+      "acronym": "dh",
+      "name": "德宏",
+      "pinyin": "dehong"
+    },
+    {
+      "acronym": "nujiang",
+      "name": "怒江",
+      "pinyin": "nujiang"
+    },
+    {
+      "acronym": "diqing",
+      "name": "迪庆",
+      "pinyin": "diqing"
+    },
+    {
+      "acronym": "lasa",
+      "name": "拉萨",
+      "pinyin": "lasa"
+    },
+    {
+      "acronym": "changdu",
+      "name": "昌都",
+      "pinyin": "changdu"
+    },
+    {
+      "acronym": "sn",
+      "name": "山南",
+      "pinyin": "shannan"
+    },
+    {
+      "acronym": "rkz",
+      "name": "日喀则",
+      "pinyin": "rikaze"
+    },
+    {
+      "acronym": "nq",
+      "name": "那曲",
+      "pinyin": "naqu"
+    },
+    {
+      "acronym": "al",
+      "name": "阿里",
+      "pinyin": "ali"
+    },
+    {
+      "acronym": "linzhi",
+      "name": "林芝",
+      "pinyin": "linzhi"
+    },
+    {
+      "acronym": "tc",
+      "name": "铜川",
+      "pinyin": "tongchuan"
+    },
+    {
+      "acronym": "baoji",
+      "name": "宝鸡",
+      "pinyin": "baoji"
+    },
+    {
+      "acronym": "xianyang",
+      "name": "咸阳",
+      "pinyin": "xianyang"
+    },
+    {
+      "acronym": "wn",
+      "name": "渭南",
+      "pinyin": "weinan"
+    },
+    {
+      "acronym": "yanan",
+      "name": "延安",
+      "pinyin": "yanan"
+    },
+    {
+      "acronym": "hanzhong",
+      "name": "汉中",
+      "pinyin": "hanzhong"
+    },
+    {
+      "acronym": "yl",
+      "name": "榆林",
+      "pinyin": "yulinyl"
+    },
+    {
+      "acronym": "ankang",
+      "name": "安康",
+      "pinyin": "ankang"
+    },
+    {
+      "acronym": "sl",
+      "name": "商洛",
+      "pinyin": "shangluo"
+    },
+    {
+      "acronym": "lz",
+      "name": "兰州",
+      "pinyin": "lanzhou"
+    },
+    {
+      "acronym": "jinchang",
+      "name": "金昌",
+      "pinyin": "jinchang"
+    },
+    {
+      "acronym": "by",
+      "name": "白银",
+      "pinyin": "baiyin"
+    },
+    {
+      "acronym": "tianshui",
+      "name": "天水",
+      "pinyin": "tianshui"
+    },
+    {
+      "acronym": "wuwei",
+      "name": "武威",
+      "pinyin": "wuwei"
+    },
+    {
+      "acronym": "zhangye",
+      "name": "张掖",
+      "pinyin": "zhangye"
+    },
+    {
+      "acronym": "pl",
+      "name": "平凉",
+      "pinyin": "pingliang"
+    },
+    {
+      "acronym": "jq",
+      "name": "酒泉",
+      "pinyin": "jiuquan"
+    },
+    {
+      "acronym": "qingyang",
+      "name": "庆阳",
+      "pinyin": "qingyang"
+    },
+    {
+      "acronym": "dx",
+      "name": "定西",
+      "pinyin": "dingxi"
+    },
+    {
+      "acronym": "ln",
+      "name": "陇南",
+      "pinyin": "longnan"
+    },
+    {
+      "acronym": "linxia",
+      "name": "临夏",
+      "pinyin": "linxia"
+    },
+    {
+      "acronym": "gn",
+      "name": "甘南",
+      "pinyin": "gannan"
+    },
+    {
+      "acronym": "xn",
+      "name": "西宁",
+      "pinyin": "xining"
+    },
+    {
+      "acronym": "haidong",
+      "name": "海东",
+      "pinyin": "haidong"
+    },
+    {
+      "acronym": "haibei",
+      "name": "海北",
+      "pinyin": "haibei"
+    },
+    {
+      "acronym": "huangnan",
+      "name": "黄南",
+      "pinyin": "huangnan"
+    },
+    {
+      "acronym": "hnz",
+      "name": "海南州",
+      "pinyin": "hainanzhou"
+    },
+    {
+      "acronym": "guoluo",
+      "name": "果洛",
+      "pinyin": "guoluo"
+    },
+    {
+      "acronym": "ys",
+      "name": "玉树",
+      "pinyin": "yushu"
+    },
+    {
+      "acronym": "hx",
+      "name": "海西",
+      "pinyin": "haixi"
+    },
+    {
+      "acronym": "yinchuan",
+      "name": "银川",
+      "pinyin": "yinchuan"
+    },
+    {
+      "acronym": "szs",
+      "name": "石嘴山",
+      "pinyin": "shizuishan"
+    },
+    {
+      "acronym": "wuzhong",
+      "name": "吴忠",
+      "pinyin": "wuzhong"
+    },
+    {
+      "acronym": "guyuan",
+      "name": "固原",
+      "pinyin": "guyuan"
+    },
+    {
+      "acronym": "zw",
+      "name": "中卫",
+      "pinyin": "zhongwei"
+    },
+    {
+      "acronym": "xj",
+      "name": "乌鲁木齐",
+      "pinyin": "wulumuqi"
+    },
+    {
+      "acronym": "klmy",
+      "name": "克拉玛依",
+      "pinyin": "kelamayi"
+    },
+    {
+      "acronym": "tlf",
+      "name": "吐鲁番",
+      "pinyin": "tulufan"
+    },
+    {
+      "acronym": "hami",
+      "name": "哈密",
+      "pinyin": "hami"
+    },
+    {
+      "acronym": "changji",
+      "name": "昌吉",
+      "pinyin": "changji"
+    },
+    {
+      "acronym": "betl",
+      "name": "博尔塔拉",
+      "pinyin": "boertala"
+    },
+    {
+      "acronym": "baz",
+      "name": "巴州",
+      "pinyin": "bazhou"
+    },
+    {
+      "acronym": "aks",
+      "name": "阿克苏",
+      "pinyin": "akesu"
+    },
+    {
+      "acronym": "kz",
+      "name": "克州",
+      "pinyin": "kezhou"
+    },
+    {
+      "acronym": "ks",
+      "name": "喀什",
+      "pinyin": "kashi"
+    },
+    {
+      "acronym": "ht",
+      "name": "和田",
+      "pinyin": "hetian"
+    },
+    {
+      "acronym": "yili",
+      "name": "伊犁",
+      "pinyin": "yili"
+    },
+    {
+      "acronym": "tac",
+      "name": "塔城",
+      "pinyin": "tacheng"
+    },
+    {
+      "acronym": "alt",
+      "name": "阿勒泰",
+      "pinyin": "aletai"
+    },
+    {
+      "acronym": "tb",
+      "name": "台北",
+      "pinyin": "taibei"
+    },
+    {
+      "acronym": "am",
+      "name": "澳门",
+      "pinyin": "aomen"
+    },
+    {
+      "acronym": "kunshan",
+      "name": "昆山",
+      "pinyin": "kunshan"
+    },
+    {
+      "acronym": "jiangyin",
+      "name": "江阴",
+      "pinyin": "jiangyin"
+    },
+    {
+      "acronym": "yiwu",
+      "name": "义乌",
+      "pinyin": "yiwu"
+    },
+    {
+      "acronym": "sd",
+      "name": "顺德",
+      "pinyin": "shunde"
+    },
+    {
+      "acronym": "shz",
+      "name": "石河子",
+      "pinyin": "shihezi"
+    },
+    {
+      "acronym": "jyg",
+      "name": "嘉峪关",
+      "pinyin": "jiayuguan"
+    },
+    {
+      "acronym": "huadu",
+      "name": "花都",
+      "pinyin": "huadu"
+    },
+    {
+      "acronym": "py",
+      "name": "番禺",
+      "pinyin": "panyu"
+    },
+    {
+      "acronym": "xiantao",
+      "name": "仙桃",
+      "pinyin": "xiantao"
+    },
+    {
+      "acronym": "fuyangfy",
+      "name": "富阳",
+      "pinyin": "fuyangfy"
+    },
+    {
+      "acronym": "ems",
+      "name": "峨眉山",
+      "pinyin": "emeishan"
+    },
+    {
+      "acronym": "qh",
+      "name": "琼海",
+      "pinyin": "qionghai"
+    },
+    {
+      "acronym": "zjg",
+      "name": "张家港",
+      "pinyin": "zhangjiagang"
+    },
+    {
+      "acronym": "jinjiang",
+      "name": "晋江",
+      "pinyin": "jinjiang"
+    },
+    {
+      "acronym": "conghua",
+      "name": "从化",
+      "pinyin": "conghua"
+    },
+    {
+      "acronym": "changshu",
+      "name": "常熟",
+      "pinyin": "changshu"
+    },
+    {
+      "acronym": "yanji",
+      "name": "延吉",
+      "pinyin": "yanji"
+    },
+    {
+      "acronym": "haining",
+      "name": "海宁",
+      "pinyin": "haining"
+    },
+    {
+      "acronym": "tx",
+      "name": "桐乡",
+      "pinyin": "tongxiang"
+    },
+    {
+      "acronym": "zhuozhou",
+      "name": "涿州",
+      "pinyin": "zhuozhou"
+    },
+    {
+      "acronym": "fl",
+      "name": "涪陵",
+      "pinyin": "fuling"
+    },
+    {
+      "acronym": "wanzhou",
+      "name": "万州",
+      "pinyin": "wanzhou"
+    },
+    {
+      "acronym": "jiangning",
+      "name": "江宁",
+      "pinyin": "jiangning"
+    },
+    {
+      "acronym": "qa",
+      "name": "迁安",
+      "pinyin": "qianan"
+    },
+    {
+      "acronym": "danyang",
+      "name": "丹阳",
+      "pinyin": "danyang"
+    },
+    {
+      "acronym": "taicang",
+      "name": "太仓",
+      "pinyin": "taicang"
+    },
+    {
+      "acronym": "wj",
+      "name": "吴江",
+      "pinyin": "wujiang"
+    },
+    {
+      "acronym": "dunhuang",
+      "name": "敦煌",
+      "pinyin": "dunhuang"
+    },
+    {
+      "acronym": "tg",
+      "name": "塘沽",
+      "pinyin": "tanggu"
+    },
+    {
+      "acronym": "jingjiang",
+      "name": "靖江",
+      "pinyin": "jingjiang"
+    },
+    {
+      "acronym": "ss",
+      "name": "石狮",
+      "pinyin": "shishi"
+    },
+    {
+      "acronym": "wys",
+      "name": "武夷山",
+      "pinyin": "wuyishan"
+    },
+    {
+      "acronym": "xs",
+      "name": "萧山",
+      "pinyin": "xiaoshan"
+    },
+    {
+      "acronym": "wuan",
+      "name": "武安",
+      "pinyin": "wuan"
+    },
+    {
+      "acronym": "liyang",
+      "name": "溧阳",
+      "pinyin": "liyang"
+    },
+    {
+      "acronym": "cixi",
+      "name": "慈溪",
+      "pinyin": "cixi"
+    },
+    {
+      "acronym": "chx",
+      "name": "长兴",
+      "pinyin": "changxing"
+    },
+    {
+      "acronym": "yanzhou",
+      "name": "兖州",
+      "pinyin": "yanzhou"
+    },
+    {
+      "acronym": "yixing",
+      "name": "宜兴",
+      "pinyin": "yixing"
+    },
+    {
+      "acronym": "dongyang",
+      "name": "东阳",
+      "pinyin": "dongyang"
+    },
+    {
+      "acronym": "shangyu",
+      "name": "上虞",
+      "pinyin": "shangyu"
+    },
+    {
+      "acronym": "wenling",
+      "name": "温岭",
+      "pinyin": "wenling"
+    },
+    {
+      "acronym": "yongkang",
+      "name": "永康",
+      "pinyin": "yongkang"
+    },
+    {
+      "acronym": "yuyao",
+      "name": "余姚",
+      "pinyin": "yuyao"
+    },
+    {
+      "acronym": "jintan",
+      "name": "金坛",
+      "pinyin": "jintan"
+    },
+    {
+      "acronym": "linhai",
+      "name": "临海",
+      "pinyin": "linhai"
+    },
+    {
+      "acronym": "fuqing",
+      "name": "福清",
+      "pinyin": "fuqing"
+    },
+    {
+      "acronym": "zhangqiu",
+      "name": "章丘",
+      "pinyin": "zhangqiu"
+    },
+    {
+      "acronym": "yangshuo",
+      "name": "阳朔",
+      "pinyin": "yangshuo"
+    },
+    {
+      "acronym": "deqing",
+      "name": "德清",
+      "pinyin": "deqing"
+    },
+    {
+      "acronym": "zhuji",
+      "name": "诸暨",
+      "pinyin": "zhuji"
+    },
+    {
+      "acronym": "ruian",
+      "name": "瑞安",
+      "pinyin": "ruian"
+    },
+    {
+      "acronym": "yueqing",
+      "name": "乐清",
+      "pinyin": "yueqing"
+    },
+    {
+      "acronym": "huidong",
+      "name": "惠东",
+      "pinyin": "huidong"
+    },
+    {
+      "acronym": "zc",
+      "name": "增城",
+      "pinyin": "zengcheng"
+    },
+    {
+      "acronym": "rh",
+      "name": "仁怀",
+      "pinyin": "renhuai"
+    },
+    {
+      "acronym": "lx",
+      "name": "兰溪",
+      "pinyin": "lanxi"
+    },
+    {
+      "acronym": "df",
+      "name": "大丰",
+      "pinyin": "dafeng"
+    },
+    {
+      "acronym": "dongtai",
+      "name": "东台",
+      "pinyin": "dongtai"
+    },
+    {
+      "acronym": "wy",
+      "name": "婺源",
+      "pinyin": "wuyuan"
+    },
+    {
+      "acronym": "fh",
+      "name": "凤凰",
+      "pinyin": "fenghuang"
+    },
+    {
+      "acronym": "lushan",
+      "name": "庐山",
+      "pinyin": "lushan"
+    },
+    {
+      "acronym": "tengchong",
+      "name": "腾冲",
+      "pinyin": "tengchong"
+    },
+    {
+      "acronym": "jzg",
+      "name": "九寨沟",
+      "pinyin": "jiuzhaigou"
+    },
+    {
+      "acronym": "xgll",
+      "name": "香格里拉",
+      "pinyin": "xianggelila"
+    },
+    {
+      "acronym": "jgs",
+      "name": "井冈山",
+      "pinyin": "jinggangshan"
+    },
+    {
+      "acronym": "wds",
+      "name": "武当山",
+      "pinyin": "wudangshan"
+    },
+    {
+      "acronym": "snj",
+      "name": "神农架",
+      "pinyin": "shennongjia"
+    },
+    {
+      "acronym": "sqs",
+      "name": "三清山",
+      "pinyin": "sanqingshan"
+    },
+    {
+      "acronym": "js",
+      "name": "嘉善",
+      "pinyin": "jiashan"
+    },
+    {
+      "acronym": "aj",
+      "name": "安吉",
+      "pinyin": "anji"
+    },
+    {
+      "acronym": "lk",
+      "name": "龙口",
+      "pinyin": "longkou"
+    },
+    {
+      "acronym": "pz",
+      "name": "邳州",
+      "pinyin": "pizhou"
+    },
+    {
+      "acronym": "zaoyang",
+      "name": "枣阳",
+      "pinyin": "zaoyang"
+    },
+    {
+      "acronym": "shouguang",
+      "name": "寿光",
+      "pinyin": "shouguang"
+    },
+    {
+      "acronym": "qingzhou",
+      "name": "青州",
+      "pinyin": "qingzhou"
+    },
+    {
+      "acronym": "rc",
+      "name": "荣成",
+      "pinyin": "rongcheng"
+    },
+    {
+      "acronym": "wd",
+      "name": "文登",
+      "pinyin": "wendeng"
+    },
+    {
+      "acronym": "rs",
+      "name": "乳山",
+      "pinyin": "rushan"
+    },
+    {
+      "acronym": "qidong",
+      "name": "启东",
+      "pinyin": "qidong"
+    },
+    {
+      "acronym": "rg",
+      "name": "如皋",
+      "pinyin": "rugao"
+    },
+    {
+      "acronym": "kp",
+      "name": "开平",
+      "pinyin": "kaiping"
+    },
+    {
+      "acronym": "taishan",
+      "name": "台山",
+      "pinyin": "taishan"
+    },
+    {
+      "acronym": "heshan",
+      "name": "鹤山",
+      "pinyin": "heshan"
+    },
+    {
+      "acronym": "haicheng",
+      "name": "海城",
+      "pinyin": "haicheng"
+    },
+    {
+      "acronym": "qf",
+      "name": "曲阜",
+      "pinyin": "qufu"
+    },
+    {
+      "acronym": "zp",
+      "name": "邹平",
+      "pinyin": "zouping"
+    },
+    {
+      "acronym": "jiangshan",
+      "name": "江山",
+      "pinyin": "jiangshan"
+    },
+    {
+      "acronym": "nh",
+      "name": "宁海",
+      "pinyin": "ninghai"
+    },
+    {
+      "acronym": "lechang",
+      "name": "乐昌",
+      "pinyin": "lechang"
+    },
+    {
+      "acronym": "yd",
+      "name": "英德",
+      "pinyin": "yingde"
+    },
+    {
+      "acronym": "jr",
+      "name": "句容",
+      "pinyin": "jurong"
+    },
+    {
+      "acronym": "yichuan",
+      "name": "伊川",
+      "pinyin": "yichuan"
+    },
+    {
+      "acronym": "xh",
+      "name": "兴化",
+      "pinyin": "xinghua"
+    },
+    {
+      "acronym": "taixing",
+      "name": "泰兴",
+      "pinyin": "taixing"
+    },
+    {
+      "acronym": "hm",
+      "name": "海门",
+      "pinyin": "haimen"
+    },
+    {
+      "acronym": "nx",
+      "name": "宁乡",
+      "pinyin": "ningxiang"
+    },
+    {
+      "acronym": "gaoyou",
+      "name": "高邮",
+      "pinyin": "gaoyou"
+    },
+    {
+      "acronym": "yizheng",
+      "name": "仪征",
+      "pinyin": "yizheng"
+    },
+    {
+      "acronym": "xintai",
+      "name": "新泰",
+      "pinyin": "xintai"
+    },
+    {
+      "acronym": "ph",
+      "name": "平湖",
+      "pinyin": "pinghu"
+    },
+    {
+      "acronym": "xiangyin",
+      "name": "湘阴",
+      "pinyin": "xiangyin"
+    },
+    {
+      "acronym": "zhucheng",
+      "name": "诸城",
+      "pinyin": "zhucheng"
+    },
+    {
+      "acronym": "changyi",
+      "name": "昌邑",
+      "pinyin": "changyi"
+    },
+    {
+      "acronym": "yanshi",
+      "name": "偃师",
+      "pinyin": "yanshi"
+    },
+    {
+      "acronym": "laizhou",
+      "name": "莱州",
+      "pinyin": "laizhou"
+    },
+    {
+      "acronym": "shengzhou",
+      "name": "嵊州",
+      "pinyin": "shengzhou"
+    },
+    {
+      "acronym": "shuyang",
+      "name": "沭阳",
+      "pinyin": "shuyang"
+    },
+    {
+      "acronym": "sheyang",
+      "name": "射阳",
+      "pinyin": "sheyang"
+    },
+    {
+      "acronym": "binhai",
+      "name": "滨海",
+      "pinyin": "binhai"
+    },
+    {
+      "acronym": "xiangshui",
+      "name": "响水",
+      "pinyin": "xiangshui"
+    },
+    {
+      "acronym": "fn",
+      "name": "阜宁",
+      "pinyin": "funing"
+    },
+    {
+      "acronym": "jianhu",
+      "name": "建湖",
+      "pinyin": "jianhu"
+    },
+    {
+      "acronym": "lq",
+      "name": "临清",
+      "pinyin": "linqing"
+    },
+    {
+      "acronym": "sanhe",
+      "name": "三河",
+      "pinyin": "sanhe"
+    },
+    {
+      "acronym": "donggang",
+      "name": "东港",
+      "pinyin": "donggang"
+    },
+    {
+      "acronym": "fenghua",
+      "name": "奉化",
+      "pinyin": "fenghua"
+    },
+    {
+      "acronym": "gr",
+      "name": "广饶",
+      "pinyin": "guangrao"
+    },
+    {
+      "acronym": "linan",
+      "name": "临安",
+      "pinyin": "linan"
+    },
+    {
+      "acronym": "xinji",
+      "name": "辛集",
+      "pinyin": "xinji"
+    },
+    {
+      "acronym": "jinzhoushi",
+      "name": "晋州",
+      "pinyin": "jinzhoushi"
+    },
+    {
+      "acronym": "fc",
+      "name": "肥城",
+      "pinyin": "feicheng"
+    },
+    {
+      "acronym": "pn",
+      "name": "普宁",
+      "pinyin": "puning"
+    },
+    {
+      "acronym": "ns",
+      "name": "南沙",
+      "pinyin": "nansha"
+    },
+    {
+      "acronym": "xinyi",
+      "name": "新沂",
+      "pinyin": "xinyi"
+    },
+    {
+      "acronym": "tengzhou",
+      "name": "滕州",
+      "pinyin": "tengzhou"
+    },
+    {
+      "acronym": "qianjiang",
+      "name": "潜江",
+      "pinyin": "qianjiang"
+    },
+    {
+      "acronym": "wuzhen",
+      "name": "乌镇",
+      "pinyin": "wuzhen"
+    },
+    {
+      "acronym": "dengfeng",
+      "name": "登封",
+      "pinyin": "dengfeng"
+    },
+    {
+      "acronym": "gongyi",
+      "name": "巩义",
+      "pinyin": "gongyi"
+    },
+    {
+      "acronym": "tonglu",
+      "name": "桐庐",
+      "pinyin": "tonglu"
+    },
+    {
+      "acronym": "xinzheng",
+      "name": "新郑",
+      "pinyin": "xinzheng"
+    },
+    {
+      "acronym": "xinmi",
+      "name": "新密",
+      "pinyin": "xinmi"
+    },
+    {
+      "acronym": "xingyang",
+      "name": "荥阳",
+      "pinyin": "xingyang"
+    },
+    {
+      "acronym": "zhuanghe",
+      "name": "庄河",
+      "pinyin": "zhuanghe"
+    },
+    {
+      "acronym": "yangzhong",
+      "name": "扬中",
+      "pinyin": "yangzhong"
+    },
+    {
+      "acronym": "xitang",
+      "name": "西塘",
+      "pinyin": "xitang"
+    },
+    {
+      "acronym": "laiyang",
+      "name": "莱阳",
+      "pinyin": "laiyang"
+    },
+    {
+      "acronym": "xingning",
+      "name": "兴宁",
+      "pinyin": "xingning"
+    },
+    {
+      "acronym": "mh",
+      "name": "漠河",
+      "pinyin": "mohe"
+    },
+    {
+      "acronym": "huayin",
+      "name": "华阴",
+      "pinyin": "huayin"
+    },
+    {
+      "acronym": "jishou",
+      "name": "吉首",
+      "pinyin": "jishou"
+    },
+    {
+      "acronym": "mishan",
+      "name": "密山",
+      "pinyin": "mishan"
+    },
+    {
+      "acronym": "lufeng",
+      "name": "陆丰",
+      "pinyin": "lufeng"
+    },
+    {
+      "acronym": "eegn",
+      "name": "额尔古纳",
+      "pinyin": "eerguna"
+    },
+    {
+      "acronym": "shaoshan",
+      "name": "韶山",
+      "pinyin": "shaoshan"
+    },
+    {
+      "acronym": "gp",
+      "name": "桂平",
+      "pinyin": "guiping"
+    },
+    {
+      "acronym": "danzhou",
+      "name": "儋州",
+      "pinyin": "danzhou"
+    },
+    {
+      "acronym": "mzl",
+      "name": "满洲里",
+      "pinyin": "manzhouli"
+    },
+    {
+      "acronym": "haiyang",
+      "name": "海阳",
+      "pinyin": "haiyang"
+    },
+    {
+      "acronym": "xinmin",
+      "name": "新民",
+      "pinyin": "xinmin"
+    },
+    {
+      "acronym": "hbbazhou",
+      "name": "霸州",
+      "pinyin": "hbbazhou"
+    },
+    {
+      "acronym": "djy",
+      "name": "都江堰",
+      "pinyin": "dujiangyan"
+    },
+    {
+      "acronym": "yongcheng",
+      "name": "永城",
+      "pinyin": "yongcheng"
+    },
+    {
+      "acronym": "tm",
+      "name": "天门",
+      "pinyin": "tianmen"
+    },
+    {
+      "acronym": "houma",
+      "name": "侯马",
+      "pinyin": "houma"
+    },
+    {
+      "acronym": "xiangcheng",
+      "name": "项城",
+      "pinyin": "xiangcheng"
+    },
+    {
+      "acronym": "gzl",
+      "name": "公主岭",
+      "pinyin": "gongzhuling"
+    },
+    {
+      "acronym": "pd",
+      "name": "平度",
+      "pinyin": "pingdu"
+    },
+    {
+      "acronym": "jiaozhou",
+      "name": "胶州",
+      "pinyin": "jiaozhou"
+    },
+    {
+      "acronym": "mhk",
+      "name": "梅河口",
+      "pinyin": "meihekou"
+    },
+    {
+      "acronym": "pengzhou",
+      "name": "彭州",
+      "pinyin": "pengzhou"
+    },
+    {
+      "acronym": "zhaoyuan",
+      "name": "招远",
+      "pinyin": "zhaoyuan"
+    },
+    {
+      "acronym": "penglai",
+      "name": "蓬莱",
+      "pinyin": "penglai"
+    },
+    {
+      "acronym": "aq",
+      "name": "安丘",
+      "pinyin": "anqiu"
+    },
+    {
+      "acronym": "gm",
+      "name": "高密",
+      "pinyin": "gaomi"
+    },
+    {
+      "acronym": "ml",
+      "name": "汨罗",
+      "pinyin": "miluo"
+    },
+    {
+      "acronym": "zunhua",
+      "name": "遵化",
+      "pinyin": "zunhua"
+    },
+    {
+      "acronym": "wc",
+      "name": "吴川",
+      "pinyin": "wuchuan"
+    },
+    {
+      "acronym": "gh",
+      "name": "广汉",
+      "pinyin": "guanghan"
+    },
+    {
+      "acronym": "jd",
+      "name": "建德",
+      "pinyin": "jiande"
+    },
+    {
+      "acronym": "gc",
+      "name": "藁城",
+      "pinyin": "gaocheng"
+    },
+    {
+      "acronym": "lingbao",
+      "name": "灵宝",
+      "pinyin": "lingbao"
+    },
+    {
+      "acronym": "yongji",
+      "name": "永济",
+      "pinyin": "yongji"
+    },
+    {
+      "acronym": "hj",
+      "name": "河津",
+      "pinyin": "hejin"
+    },
+    {
+      "acronym": "dsq",
+      "name": "大石桥",
+      "pinyin": "dashiqiao"
+    },
+    {
+      "acronym": "daye",
+      "name": "大冶",
+      "pinyin": "daye"
+    },
+    {
+      "acronym": "gaoping",
+      "name": "高平",
+      "pinyin": "gaoping"
+    },
+    {
+      "acronym": "baoying",
+      "name": "宝应",
+      "pinyin": "baoying"
+    },
+    {
+      "acronym": "krl",
+      "name": "库尔勒",
+      "pinyin": "kuerle"
+    },
+    {
+      "acronym": "xiaoyi",
+      "name": "孝义",
+      "pinyin": "xiaoyi"
+    },
+    {
+      "acronym": "jianyang",
+      "name": "简阳",
+      "pinyin": "jianyang"
+    },
+    {
+      "acronym": "lsj",
+      "name": "冷水江",
+      "pinyin": "lengshuijiang"
+    },
+    {
+      "acronym": "wenchang",
+      "name": "文昌",
+      "pinyin": "wenchang"
+    },
+    {
+      "acronym": "yucheng",
+      "name": "禹城",
+      "pinyin": "yucheng"
+    },
+    {
+      "acronym": "yuzhou",
+      "name": "禹州",
+      "pinyin": "yuzhou"
+    }
+  ]
+}

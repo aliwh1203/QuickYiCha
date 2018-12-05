@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <com.aliwh.android.quickyicha.view.CustomViewPager
+        android:id="@+id/content_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/segment_line"
+        android:layout_alignParentTop="true" />
+    <!--中间为一条分割线-->
+    <View
+        android:id="@+id/segment_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/group"
+        android:background="@color/gray" />
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/radiobutton_one_selector"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="首页"
+            android:textColor="@drawable/text_selector" />
+
+        <RadioButton
+            android:id="@+id/two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/radiobutton_two_selector"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="汽车"
+            android:textColor="@drawable/text_selector" />
+
+        <RadioButton
+            android:id="@+id/three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/radiobutton_three_selector"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="查询"
+            android:textColor="@drawable/text_selector" />
+
+        <RadioButton
+            android:id="@+id/four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/radiobutton_four_selector"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="我的"
+            android:textColor="@drawable/text_selector" />
+    </RadioGroup>
+
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 尺寸定义 -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="ui_10_dip">10dip</dimen>
+
+    <!-- 页面标题高度 -->
+    <dimen name="title_height">50dp</dimen>
+    <!-- 返回按钮相关 -->
+    <dimen name="back_button_width">75dp</dimen>
+    <dimen name="back_button_height">25dp</dimen>
+
+    <!-- pull to refresh view -->
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="dm_margin">10dp</dimen>
+    <dimen name="dm_title">18dp</dimen>
+
+    <!-- Album相关 -->
+    <dimen name="albumitem_height">100dp</dimen>
+    <dimen name="albumitem_content_height">80dp</dimen>
+    <dimen name="albumitem_image_height">20dp</dimen>
+
+    <!-- CheckBox相关 -->
+    <dimen name="checkbox_height">25dp</dimen>
+
+    <!-- Title 相关高度 -->
+    <dimen name="layout_title_heigh">45dp</dimen>
+    <dimen name="layout_title_content_heigh">30dp</dimen>
+    <dimen name="layout_title_mini_textsize">16sp</dimen>
+
+    <!-- 图片选择界面Item相关 -->
+    <dimen name="sticky_item_horizontalSpacing">2dp</dimen>
+    <dimen name="sticky_item_verticalSpacing">2dp</dimen>
+    <dimen name="collection_photo_toolbar_height">45dp</dimen>
+
+    <!-- 环信 -->
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_top_bar">50dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">40dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+
+    <dimen name="text_size">20sp</dimen>
+
+    <!-- MEDIA CONTROLLER -->
+    <dimen name="media_controller_text_size">14sp</dimen>
+    <dimen name="media_controller_seekbar_width">32dip</dimen>
+    <dimen name="media_controller_seekbar_height">32dip</dimen>
+    <dimen name="media_controller_top_margin">80dip</dimen>
+    <dimen name="media_controller_bottom_margin">12dip</dimen>
+    <dimen name="media_controller_view_height">48dip</dimen>
+    <dimen name="media_controller_button_height">52dip</dimen>
+    <dimen name="media_controller_button_width">71dip</dimen>
+
+    <!-- 一登有关 -->
+    <dimen name="s_size_font_title">17dp</dimen>
+
+    <dimen name="bga_pp_size_photo_divider">2dp</dimen>
+
+</resources>
