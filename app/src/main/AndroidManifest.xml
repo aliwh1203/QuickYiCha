@@ -265,6 +265,27 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:windowSoftInputMode="stateHidden|adjustResize" />
 
+        <!--电视节目列表页面-->
+        <activity
+            android:name=".activity.TvListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="portrait" />
+        <!--电视节目播放页面-->
+        <activity
+            android:name=".activity.TvLiveActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/TV_WATCH_STYLE"
+            android:screenOrientation="landscape" />
+
+        <!--注册io.vov.vitamio.activity.InitActivity-->
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
         <!-- Android 7.0 解决私有目录限制访问问题 -->
         <provider
             android:name="android.support.v4.content.FileProvider"

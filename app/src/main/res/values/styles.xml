@@ -88,4 +88,11 @@
         <item name="android:windowHideAnimation">@anim/dialog_exit</item>
         <!-- 指定消失的动画xml  -->
     </style>
+
+    <!--视频播放页样式 -->
+    <style name="TV_WATCH_STYLE"  parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
 </resources>

@@ -78,6 +78,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/builds" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-classes" />
@@ -113,40 +114,41 @@
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:27.1.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:animated-vector-drawable-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.xutils:xutils-3.4.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:OneKeyShare-3.5.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-compat-27.1.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-3.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.mob:MobCommons:2019.0321.1845@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-3.5.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.code.gson:gson:2.7@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:viewmodel-1.1.0" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:OneKeyShare-3.3.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.scwang.smartrefresh:SmartRefreshLayout-1.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.mob:MobGUI:2019.0306.1850@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:recyclerview-v7-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:multidex-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.mob:MobTools:2018.1009.1056@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-QZone:3.5.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-media-compat-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-ui-27.1.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.mob:MobCommons:2018.1011.1129@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-utils-27.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-QQ:3.5.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.smssdk:SMSSDK-3.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Core:3.5.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.mob:Jimu-2017.1208.1730" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-fragment-27.1.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.mob:MobGUI:2018.1009.1056@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-QZone:3.3.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.core:runtime-1.1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:design-27.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Moments:3.5.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7-27.1.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat:3.3.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:livedata-core-1.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat:3.5.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\AndroidStudioProject\QuickYiCha\app\libs\jodd-mobile-3.5.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Moments:3.3.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.aliwh1203:ShortVideoSDK-v1.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.mob:MobTools:2019.0318.2036@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.mob:SDKWrapper:2018.0801.1824@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Core:3.3.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.core:common:1.1.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.sharesdk:ShareSDK-QQ:3.3.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.mob:UMSSDK-1.0.1.2" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: cn.smssdk:SMSSDK-3.2.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\AndroidStudioProject\QuickYiCha\app\libs\BaiduLBS_Android.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:runtime-1.1.0" level="project" />
-    <orderEntry type="module" module-name="YunWangVideoSDK" exported="" />
+    <orderEntry type="module" module-name="vitamio" exported="" />
   </component>
 </module>

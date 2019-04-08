@@ -39,7 +39,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.aliwh.android.quickyicha.R;
-import com.aliwh.android.quickyicha.activity.BaseActivity;
 import com.im.Config;
 import com.im.SoInstallMgr;
 import com.im.Util;

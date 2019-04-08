@@ -10,8 +10,9 @@ android {
         minSdkVersion 19
         targetSdkVersion 27
         multiDexEnabled true //dex突破65535的限制
-        versionCode 27020300
-        versionName "V2.3.0"
+        versionCode 27020400
+        versionName "V2.4.0"
+
 
     }
 
@@ -68,6 +69,13 @@ android {
         }
     }
 
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
 }
 
 def releaseTime() {
@@ -76,7 +84,6 @@ def releaseTime() {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:support-v4:27.1.1'
     compile 'com.android.support:appcompat-v7:27.1.1'
     compile 'com.android.support:design:27.1.1'
     compile 'com.android.support:multidex:1.0.0'
@@ -88,7 +95,8 @@ dependencies {
     compile 'com.google.code.gson:gson:2.7'
     //智能下拉刷新框架-SmartRefreshLayout
     compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
-    compile project(':YunWangVideoSDK')
+    compile 'com.github.aliwh1203:ShortVideoSDK:v1.2'
+    compile project(':vitamio')
 
 }
 

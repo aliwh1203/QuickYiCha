@@ -9,8 +9,6 @@ import java.lang.reflect.Field;
 
 /**
  * 主界面的自定义Viewpager
- *
- * @author Brian 2015年10月26日上午10:33:08
  */
 public class CustomViewPager extends ViewPager {
     private boolean noScroll = false;
@@ -58,10 +56,11 @@ public class CustomViewPager extends ViewPager {
 
     @Override
     public boolean onInterceptTouchEvent(MotionEvent arg0) {
-        if (noScroll)
+        if (noScroll) {
             return false;
-        else
+        } else {
             return super.onInterceptTouchEvent(arg0);
+        }
     }
 
     @Override

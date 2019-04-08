@@ -17,6 +17,7 @@ import com.aliwh.android.quickyicha.activity.LotteryResultActivity;
 import com.aliwh.android.quickyicha.activity.MenuQueryActivity;
 import com.aliwh.android.quickyicha.activity.PhoneAddressActivity;
 import com.aliwh.android.quickyicha.activity.PhraseQueryActivity;
+import com.aliwh.android.quickyicha.activity.TvListActivity;
 import com.aliwh.android.quickyicha.module.makevideo.YWRecordVideoActivity;
 import com.aliwh.android.quickyicha.utils.DoubleClickUtil;
 import com.aliwh.android.quickyicha.utils.PermissionHelper;
@@ -131,6 +132,22 @@ public class ThirdFragment extends BaseFragment {
             if (mSpUtil.getIsOline()) {
                 Intent intent = new Intent();
                 intent.setClass(getActivity(), HealthKnowledgeSearchActivity.class);
+                startActivity(intent);
+            }
+        }
+    }
+
+    /**
+     * 电视直播观看
+     *
+     * @param v
+     */
+    @Event(value = {R.id.watch_tv_layout}) //type默认为OnClickListener
+    private void watchTV(View v) {
+        if (!DoubleClickUtil.isFastDoubleClick()) {
+            if (mSpUtil.getIsOline()) {
+                Intent intent = new Intent();
+                intent.setClass(getActivity(), TvListActivity.class);
                 startActivity(intent);
             }
         }

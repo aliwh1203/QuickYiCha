@@ -124,5 +124,8 @@
     <color name="colorContent">#ff333333</color>
     <color name="colorTheme">#ffce3d3a</color>
 
+    <color name="rl_loading_bg">#de262a2b</color>
+    <color name="player_panel_bg">#dd000000</color>
+
 
 </resources>

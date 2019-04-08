@@ -27,6 +27,7 @@ import org.xutils.view.annotation.ContentView;
 import org.xutils.view.annotation.Event;
 import org.xutils.view.annotation.ViewInject;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -122,6 +123,8 @@ public class MenuQueryActivity extends BaseActivity {
 
             }
         });
+
+
     }
 
     @Event(value = R.id.lv_menu, type = ListView.OnItemClickListener.class)

@@ -1,1 +1,1 @@
-include  ':app',':YunWangVideoSDK'
+include  ':app',':vitamio'
